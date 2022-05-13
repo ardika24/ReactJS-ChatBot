@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "description": "This t-shirt is anti-dust and anti-bacterial",
+      "price": 500000
+    },
+    {
+      "id": 2,
+      "name": "Work Pants",
+      "description": "Comfortable work pants and made of cotton",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "name": "Jacket",
+      "description": "Jacket made of parachute material doesn't fade and is cool when worn",
+      "price": 200000
+    }
+  ]
+}
